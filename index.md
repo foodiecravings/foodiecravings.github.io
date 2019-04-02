@@ -7,3 +7,6 @@ of the food.
 We hope to create a website that can help everyone feed their cravings. Our website will be able to collect
 information from campus restaurants. Some information that we plan to share with our users is the location, the 
 hours of operation, some visual aids, the price of the food, and the ability to add ratings for others to see.
+
+## Possible example(s) of our mockup.
+![](images/foodiescravings_home_mockup.PNG)
