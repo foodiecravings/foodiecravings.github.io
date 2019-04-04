@@ -10,3 +10,15 @@ hours of operation, some visual aids, the price of the food, and the ability to 
 
 ## About FoodiesCravings
 ![](images/foodiescravings_home_mockup.PNG)
+
+## Page Mock Ups
+### Landing Page
+![](images/landing_page_mu.png)
+### Login Page
+![](images/login_page_mu.png)
+### Profile Page
+![](images/profile_page_mu.png)
+### Add Food Page
+![](images/add_food_page_mu.png)
+### Results Page
+![](images/results_page_mu.png)
