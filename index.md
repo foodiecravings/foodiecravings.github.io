@@ -5,6 +5,7 @@ hours of operation, some visual aids, the price of the food, and the ability to 
 
 ## Track our Deployment
 [Main Repository](https://github.com/foodiecravings/foodiecravings)
+
 [Milestone 1](https://github.com/foodiecravings/foodiecravings/projects/1)
 
 ## About FoodiesCravings
