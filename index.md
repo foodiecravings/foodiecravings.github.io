@@ -13,12 +13,14 @@
   * [Configuration](#configuration)
   * [Quality Assurance](#quality-assurance)
     * [ESLint](#eslint)
-* [Development history](#development-history)
+* [Our Milestones](#our-milestones)
+* [FoodieCravings Website](#foodiecravings-website)
+ * [Landing Page](#landing)
+ * [Log-in Page](#log-in)
+ * [Results Page](#results)
+ * Milestone development
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Data model development](#milestone-2-data-model-development)
-  * [Milestone 3: Connect UI to data model](#milestone-3-connect-ui-to-data-model)
-  * [Milestone 4: Authentication](#milestone-4-authentication)
-  * [Milestone 5: Administration](#milestone-5-administration)
 * [Walkthrough videos](#walkthrough-videos)
 * [JSDocs](/jsdocs)
 
@@ -182,7 +184,14 @@ It's significantly easier to do development with ESLint integrated directly into
 
 [Milestone 2](https://github.com/foodiecravings/foodiecravings/projects/2)
 
-## About FoodiesCravings
+## FoodieCravings Website
+### Landing Page
+* Users are quickly able to search straight from the landing page to serach their favorite foods
+### Log in
+* Users may sign-up/login if they want to make their own reviews
+### Results
+* Displays all food items the user have searched for and the ability to add favorites to their profile.
+
 ![](images/foodiescravings_home_mockup.PNG)
 
 ## Milestone 1: Mockup development
