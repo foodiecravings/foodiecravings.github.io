@@ -1,4 +1,8 @@
-## Visit our Website
+## Quick Links
+[Foodie Cravings Repository](https://github.com/foodiecravings/foodiecravings.github.io)
+
+[Project Board](https://github.com/foodiecravings/foodiecravings/projects)
+
 [FoodieCravings App](http://foodiecravings.meteorapp.com/#/)
 
 ## Our Goals
@@ -29,3 +33,11 @@ Students may be able to search and add their favorite foods to their profile!
 So why don't you come pay us a visit and indulge in your deepest cravings.
 ![](images/results_page_mu.png)
 
+## Milestone 1: Mockup development
+This milestone started on December 6, 2016 and ended on January 31, 2017.
+
+The goal of milestone 1:
+- Create a fully functional landing page with working navbar and footer and allows users to know what our website is about
+- Create a contact us page where users can proide feedback 
+
+Mockups for the following four pages were implemented during M1:
