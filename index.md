@@ -1,8 +1,4 @@
-## Quick Links
-[Foodie Cravings Repository](https://github.com/foodiecravings/foodiecravings.github.io)
-
-[Project Board](https://github.com/foodiecravings/foodiecravings/projects)
-
+## Visit our Website
 [FoodieCravings App](http://foodiecravings.meteorapp.com/#/)
 
 ## Our Goals
