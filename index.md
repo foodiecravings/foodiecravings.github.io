@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Useful Links](#useful-links)
-* [Our Goals](#Our-Goals)
+* [Our Goals](#our-goals)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
@@ -18,7 +18,7 @@
  * [Landing Page](#landing)
  * [Log-in Page](#log-in)
  * [Results Page](#results)
- * Milestone development
+ * [Milestone development](#milestone-development)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Data model development](#milestone-2-data-model-development)
 * [Walkthrough videos](#walkthrough-videos)
@@ -194,6 +194,7 @@ It's significantly easier to do development with ESLint integrated directly into
 
 ![](images/foodiescravings_home_mockup.PNG)
 
+# Milestone Development
 ## Milestone 1: Mockup development
 This milestone started on April 4, 2019 and ended on April 11, 2019.
 
