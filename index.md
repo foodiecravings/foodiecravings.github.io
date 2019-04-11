@@ -1,3 +1,8 @@
+## Quick Links
+[Foodie Cravings Repository](https://github.com/foodiecravings/foodiecravings.github.io)
+[Project Board](https://github.com/foodiecravings/foodiecravings/projects)
+[FoodieCravings App](http://foodiecravings.meteorapp.com/#/)
+
 ## Our Goals
 We hope to create a website that can help everyone feed their cravings. Our website will be able to collect
 information from campus restaurants. Some information that we plan to share with our users is the location, the 
