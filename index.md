@@ -202,6 +202,6 @@ Milestone 1 consisted of 9 issues
 
 (INSERT MILESTONE 1 HERE)
 
-Each issue was implemented in its own branch, and merged into master when completed:
+Each issue was implemented in its own branch, and merged into master when completed:,
 
 (INSERT COMPLETED ISSUES HERE)
