@@ -20,9 +20,8 @@
  * [Results Page](#results)
  * [Milestone development](#milestone-development)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
-  * [Milestone 2: Data model development](#milestone-2-data-model-development)
-* [Walkthrough videos](#walkthrough-videos)
-* [JSDocs](/jsdocs)
+  * [Milestone 2:](#milestone-2)
+
 
 ## useful links
 [FoodieCravings App](http://foodiecravings.meteorapp.com/#/)
@@ -187,6 +186,9 @@ It's significantly easier to do development with ESLint integrated directly into
 [Milestone 2](https://github.com/foodiecravings/foodiecravings/projects/2)
 
 ## FoodieCravings Website
+
+[FoodieCravings App](http://foodiecravings.meteorapp.com/#/)
+
 ### Landing Page
 * Users are quickly able to search straight from the landing page to serach their favorite foods
 ### Log in
@@ -217,3 +219,5 @@ Milestone 1 consisted of 9 issues
 Each issue was implemented in its own branch, and merged into master when completed:,
 
 (INSERT COMPLETED ISSUES HERE)
+
+## Milestone 2:
