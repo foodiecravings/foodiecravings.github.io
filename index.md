@@ -4,9 +4,9 @@ information from campus restaurants. Some information that we plan to share with
 hours of operation, some visual aids, the price of the food, and the ability to add ratings for others to see.
 
 ## Track our Deployment
-[Main Repository](https://github.com/foodiecravings/foodiecravings)
-
 [Milestone 1](https://github.com/foodiecravings/foodiecravings/projects/1)
+
+[Milestone 2](https://github.com/foodiecravings/foodiecravings/projects/2)
 
 ## About FoodiesCravings
 ![](images/foodiescravings_home_mockup.PNG)
