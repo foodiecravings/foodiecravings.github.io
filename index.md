@@ -46,4 +46,6 @@ Milestone 1 consisted of 9 issues
 
 (INSERT MILESTONE 1 HERE)
 
-Mockups for the following four pages were implemented during M1:
+Each issue was implemented in its own branch, and merged into master when completed:
+
+(INSERT COMPLETED ISSUES HERE)
