@@ -26,8 +26,10 @@
 
 ## useful links
 [FoodieCravings App](http://foodiecravings.meteorapp.com/#/)
+
 [Current Milestone](https://github.com/foodiecravings/foodiecravings/projects/2)
-[]
+
+[Project Board](https://github.com/foodiecravings/foodiecravings/projects)
 
 ## Our Goals
 We hope to create a website that can help everyone feed their cravings. Our website will be able to collect
