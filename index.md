@@ -209,19 +209,20 @@ This milestone started on April 4, 2019 and ended on April 11, 2019.
 
 ## Pages
 - Create a fully functional landing page with working navbar and footer and allows users to know what our website is about
-- Create a contact us page where users can provide feedback where admins may use to fix the website
-- Create food collection and add food functionality where users may add to their profile
-- Add functionality to serach bar on home page
-
 ![](images/landing.PNG)
+- Create a contact us page where users can provide feedback where admins may use to fix the website
 ![](images/contactus.PNG)
-![](feedback.PNG)
-![](addfood.PNG)
+- Add functionality to search bar on home page
+![](images/functional_search_bar.png)
+- Add log in page to allow user to log in and add in their food
+![](images/login_page.png)
 
 Milestone 1 consisted of 10 issues
 
 Each issue was implemented in its own branch, and merged into master when completed:,
 
-![](m1.PNG)
+![](images/m1.PNG)
 
 ## Milestone 2:
+- Create food collection and add food functionality where users may add to their profile
+![](images/addfood.PNG)
