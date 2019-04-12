@@ -213,4 +213,4 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ## Milestone 2:
 - Create food collection and add food functionality where users may add to their profile
-![](images/add_food_page_mu.PNG)
+![](images/add_food_page_mu.png)
