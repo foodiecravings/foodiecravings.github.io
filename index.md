@@ -218,12 +218,10 @@ This milestone started on April 4, 2019 and ended on April 11, 2019.
 ![](feedback.PNG)
 ![](addfood.PNG)
 
-Milestone 1 consisted of 9 issues
-
-(INSERT MILESTONE 1 HERE)
+Milestone 1 consisted of 10 issues
 
 Each issue was implemented in its own branch, and merged into master when completed:,
 
-(INSERT COMPLETED ISSUES HERE)
+![](m1.PNG)
 
 ## Milestone 2:
