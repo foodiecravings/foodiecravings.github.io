@@ -189,18 +189,6 @@ It's significantly easier to do development with ESLint integrated directly into
 
 [FoodieCravings App](http://foodiecravings.meteorapp.com/#/)
 
-### Landing Page
-* Users are quickly able to search straight from the landing page to serach their favorite foods
-![](images/landing.PNG)
-### Log in
-* Users may sign-up/login if they want to make their own reviews
-![](images/login.PNG)
-### Results
-* Displays all food items the user have searched for and the ability to add favorites to their profile.
-![](images/results.PNG)
-
-![](images/foodiescravings_home_mockup.PNG)
-
 # Milestone Development
 ## Milestone 1: Mockup development
 This milestone started on April 4, 2019 and ended on April 11, 2019.
@@ -219,10 +207,10 @@ This milestone started on April 4, 2019 and ended on April 11, 2019.
 
 Milestone 1 consisted of 10 issues
 
-Each issue was implemented in its own branch, and merged into master when completed:,
+Each issue was implemented in its own branch, and merged into master when completed
 
 ![](images/m1.PNG)
 
 ## Milestone 2:
 - Create food collection and add food functionality where users may add to their profile
-![](images/addfood.PNG)
+![](images/add_food_page_mu.PNG)
