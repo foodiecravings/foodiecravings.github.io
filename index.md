@@ -30,6 +30,8 @@
 
 [Project Board](https://github.com/foodiecravings/foodiecravings/projects)
 
+[GitHub Organization](https://github.com/foodiecravings)
+
 ## Our Goals
 We hope to create a website that can help everyone feed their cravings. Our website will be able to collect
 information from campus restaurants. Some information that we plan to share with our users is the location, the 
@@ -196,13 +198,13 @@ This milestone started on April 4, 2019 and ended on April 11, 2019.
 # The goal of milestone 1:
 
 ## Pages
-- Create a fully functional landing page with working navbar and footer and allows users to know what our website is about
+- Create a fully functional [landing page](http://foodiecravings.meteorapp.com/#/) with working navbar and footer and allows users to know what our website is about
 ![](images/landing.PNG)
-- Create a contact us page where users can provide feedback where admins may use to fix the website
+- Create a [contact us](http://foodiecravings.meteorapp.com/#/contact) page where users can provide feedback where admins may use to fix the website
 ![](images/contactus.PNG)
-- Add functionality to search bar on home page
+- Add functionality to search bar on [landing page](http://foodiecravings.meteorapp.com/#/)
 ![](images/functional_search_bar.png)
-- Add log in page to allow user to log in and add in their food
+- Add [log in](http://foodiecravings.meteorapp.com/#/signin) page to allow user to log in and add in their food
 ![](images/login_page.png)
 
 Milestone 1 consisted of 10 issues
