@@ -9,7 +9,6 @@
   * [Naming conventions](#naming-conventions)
   * [Data model](#data-model)
   * [CSS](#css)
-  * [Routing](#routing)
   * [Configuration](#configuration)
   * [Quality Assurance](#quality-assurance)
     * [ESLint](#eslint)
