@@ -191,10 +191,13 @@ It's significantly easier to do development with ESLint integrated directly into
 
 ### Landing Page
 * Users are quickly able to search straight from the landing page to serach their favorite foods
+![](images/landing.PNG)
 ### Log in
 * Users may sign-up/login if they want to make their own reviews
+![](images/login.PNG)
 ### Results
 * Displays all food items the user have searched for and the ability to add favorites to their profile.
+![](images/results.PNG)
 
 ![](images/foodiescravings_home_mockup.PNG)
 
@@ -210,7 +213,10 @@ This milestone started on April 4, 2019 and ended on April 11, 2019.
 - Create food collection and add food functionality where users may add to their profile
 - Add functionality to serach bar on home page
 
-(INSERT PAGES HERE)
+![](images/landing.PNG)
+![](images/contactus.PNG)
+![](feedback.PNG)
+![](addfood.PNG)
 
 Milestone 1 consisted of 9 issues
 
