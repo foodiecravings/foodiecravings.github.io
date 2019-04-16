@@ -2,6 +2,7 @@
 
 * [Useful Links](#useful-links)
 * [Our Goals](#our-goals)
+* [User Guide](#user-guide)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
@@ -32,6 +33,14 @@
 We hope to create a website that can help everyone feed their cravings. Our website will be able to collect
 information from campus restaurants. Some information that we plan to share with our users is the location, the 
 hours of operation, some visual aids, the price of the food, and the ability to add ratings for others to see.
+
+## User Guide
+Navigate over to our [website](http://foodiecravings.meteorapp.com/#/) and you will arrive at our landing page. 
+From here you will need to set up an account. You can do this by clicking the login button at the very top right 
+and then selecting sign up. After entering your information you will now have full access to our website! You can 
+add new ratings by navigating to the "Add Food" tab on top. Here we will ask you for your review of the food. There
+is also a page where you can search for food, this is under the "List Food" tab. The last special feature is your
+profile page. Here is where other reviews can get to know a little bit more about you! 
 
 # Installation
 
