@@ -60,7 +60,7 @@ Fourth, run the system with:
 $ meteor npm run start
 ```
 
-If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login.  
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). 
 
 # Application Design
 
@@ -192,6 +192,8 @@ It's significantly easier to do development with ESLint integrated directly into
 
 [Milestone 2](https://github.com/foodiecravings/foodiecravings/projects/2)
 
+[milestone 3](https://github.com/foodiecravings/foodiecravings/projects/3)
+
 ## FoodieCravings Website
 
 [FoodieCravings App](http://foodiecravings.meteorapp.com/#/)
@@ -222,3 +224,5 @@ Each issue was implemented in its own branch, and merged into master when comple
 Our task for [milestone 2](https://github.com/foodiecravings/foodiecravings/projects/2)
 ![](images/m2.png)
 
+## Milestone 3:
+Our Task for [milestone 3](https://github.com/foodiecravings/foodiecravings/projects/3)
