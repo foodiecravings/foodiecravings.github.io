@@ -17,7 +17,7 @@
 * [FoodieCravings Website](#foodiecravings-website)
  * [Milestone development](#milestone-development)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
-  * [Milestone 2:](#milestone-2)
+  * [Milestone 2: Improve Functionality](#milestone-2)
 
 
 ## useful links
@@ -35,12 +35,20 @@ information from campus restaurants. Some information that we plan to share with
 hours of operation, some visual aids, the price of the food, and the ability to add ratings for others to see.
 
 ## User Guide
-Navigate over to our [website](http://foodiecravings.meteorapp.com/#/) and you will arrive at our landing page. 
+Navigate over to our [website](http://foodiecravings.meteorapp.com/#/) and you will arrive at our landing page.
+![](images/landing.PNG)
 From here you will need to set up an account. You can do this by clicking the login button at the very top right 
-and then selecting sign up. After entering your information you will now have full access to our website! You can 
-add new ratings by navigating to the "Add Food" tab on top. Here we will ask you for your review of the food. There
-is also a page where you can search for food, this is under the "List Food" tab. The last special feature is your
-profile page. Here is where other reviews can get to know a little bit more about you! 
+and then selecting sign up. 
+![](images/sign_up.png)
+
+After entering your information you will now have full access to our website! 
+
+You can add new ratings by navigating to the "Add Food" tab on top. Here we will ask you for your review of the food. 
+![](images/add_food.png)
+There is also a page where you can search for food, this is under the "List Food" tab. 
+
+The last special feature is your profile page. Here is where other reviews can get to know a little bit more about you! 
+![](images/profile.png)
 
 # Installation
 
