@@ -216,7 +216,7 @@ This milestone started on April 4, 2019 and ended on April 11, 2019.
 - Create a fully functional [landing page](http://foodiecravings.meteorapp.com/#/) with working navbar and footer and allows users to know what our website is about
 ![](images/landing.PNG)
 - Create a [contact us](http://foodiecravings.meteorapp.com/#/contact) page where users can provide feedback where admins may use to fix the website
-![](images/contactus.PNG)
+![](images/contact_us.png)
 - Add functionality to search bar on [landing page](http://foodiecravings.meteorapp.com/#/)
 ![](images/functional_search_bar.png)
 - Add [log in](http://foodiecravings.meteorapp.com/#/signin) page to allow user to log in and add in their food
