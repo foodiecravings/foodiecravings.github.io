@@ -18,6 +18,7 @@
  * [Milestone development](#milestone-development)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Improve Functionality](#milestone-2)
+  * [Milestone 3: Clean Up](https://github.com/foodiecravings/foodiecravings/projects/3)
 
 
 ## useful links
@@ -45,7 +46,8 @@ After entering your information you will now have full access to our website!
 
 You can add new ratings by navigating to the "Add Food" tab on top. Here we will ask you for your review of the food. 
 ![](images/add_food.png)
-There is also a page where you can search for food, this is under the "List Food" tab. 
+There is also a page where you can search for food, this is under the "Search Results" tab. 
+Comming Soon!
 
 The last special feature is your profile page. Here is where other reviews can get to know a little bit more about you! 
 ![](images/profile.png)
@@ -210,9 +212,8 @@ It's significantly easier to do development with ESLint integrated directly into
 ## Milestone 1: Mockup development
 This milestone started on April 4, 2019 and ended on April 11, 2019.
 
-# The goal of milestone 1:
+## The goal of milestone 1:
 
-## Pages
 - Create a fully functional [landing page](http://foodiecravings.meteorapp.com/#/) with working navbar and footer and allows users to know what our website is about
 ![](images/landing.PNG)
 - Create a [contact us](http://foodiecravings.meteorapp.com/#/contact) page where users can provide feedback where admins may use to fix the website
@@ -228,9 +229,16 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ![](images/m1.PNG)
 
-## Milestone 2:
-Our task for [milestone 2](https://github.com/foodiecravings/foodiecravings/projects/2)
-![](images/m2.png)
+## Milestone 2: Improve Functionality
+This milestone started on April 12, 2019 and ended on April 25, 2019.
 
-## Milestone 3:
+Our task for [milestone 2](https://github.com/foodiecravings/foodiecravings/projects/2)
+![](images/milestone2.png)
+
+- The [search bar](http://foodiecravings.meteorapp.com/#/) now is able to search the available foods
+
+- Add a [profile page](http://foodiecravings.meteorapp.com/#/profile) so the user can share a little information about them
+![](images/profile_page.png)
+
+## Milestone 3: Clean Up
 Our Task for [milestone 3](https://github.com/foodiecravings/foodiecravings/projects/3)
