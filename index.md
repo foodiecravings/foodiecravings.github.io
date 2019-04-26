@@ -3,6 +3,7 @@
 * [Useful Links](#useful-links)
 * [Our Goals](#our-goals)
 * [User Guide](#user-guide)
+* [Overview](#overview)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
@@ -35,9 +36,15 @@ We hope to create a website that can help everyone feed their cravings. Our webs
 information from campus restaurants. Some information that we plan to share with our users is the location, the 
 hours of operation, some visual aids, the price of the food, and the ability to add ratings for others to see.
 
+## Overview
+Ever having a craving for food but you don't know where to get the best of the best? Well youre in luck! Foodie Cravings 
+hopes to create a website that can help the UH community feed their cravings.Our website is able to collect information 
+from campus restaurants and even locations off campus. Some information that Foodie Cravings shares with our users is
+the location, visual aids, price, and ratings. You can check out our [repository](http://foodiecravings.meteorapp.com/#/) as well as our live [website](http://foodiecravings.meteorapp.com/#/)! You can check out our recent updates in our [Milestone2](https://github.com/foodiecravings/foodiecravings/projects/2) project board, and our plans for our final update, [Milestone3](https://github.com/foodiecravings/foodiecravings/projects/3)!
+
 ## User Guide
 Navigate over to our [website](http://foodiecravings.meteorapp.com/#/) and you will arrive at our landing page.
-![](images/landing.PNG)
+![](images/landing.png)
 From here you will need to set up an account. You can do this by clicking the login button at the very top right 
 and then selecting sign up. 
 ![](images/sign_up.png)
@@ -50,7 +57,7 @@ There is also a page where you can search for food, this is under the "Search Re
 Comming Soon!
 
 The last special feature is your profile page. Here is where other reviews can get to know a little bit more about you! 
-![](images/profile.png)
+![](images/profile_page.png)
 
 # Installation
 
@@ -68,6 +75,12 @@ Fourth, run the system with:
 
 ```
 $ meteor npm run start
+```
+
+Finally, run this last line to import a package one of our features require:
+
+```
+$ npm install react-image-fallback
 ```
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). 
@@ -215,7 +228,7 @@ This milestone started on April 4, 2019 and ended on April 11, 2019.
 ## The goal of milestone 1:
 
 - Create a fully functional [landing page](http://foodiecravings.meteorapp.com/#/) with working navbar and footer and allows users to know what our website is about
-![](images/landing.PNG)
+![](images/landing.png)
 - Create a [contact us](http://foodiecravings.meteorapp.com/#/contact) page where users can provide feedback where admins may use to fix the website
 ![](images/contact_us.png)
 - Add functionality to search bar on [landing page](http://foodiecravings.meteorapp.com/#/)
@@ -239,6 +252,13 @@ Our task for [milestone 2](https://github.com/foodiecravings/foodiecravings/proj
 
 - Add a [profile page](http://foodiecravings.meteorapp.com/#/profile) so the user can share a little information about them
 ![](images/profile_page.png)
+
+- A list of your food reviews is also available on your profile page. There are also options to add on comments, delete or edit your reviews
+![](images/reviews.png)
+
+Milestone 2 consisted of 8 issues
+
+Each issue was implemented in its own branch, and merged into master when completed
 
 ## Milestone 3: Clean Up
 Our Task for [milestone 3](https://github.com/foodiecravings/foodiecravings/projects/3)
