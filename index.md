@@ -1,9 +1,8 @@
 # Table of contents
 
 * [Useful Links](#useful-links)
-* [Our Goals](#our-goals)
-* [User Guide](#user-guide)
 * [Overview](#overview)
+* [User Guide](#user-guide)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
@@ -25,22 +24,23 @@
 ## useful links
 [FoodieCravings App](http://foodiecravings.meteorapp.com/#/)
 
-[Current Milestone](https://github.com/foodiecravings/foodiecravings/projects/2)
+[Milestone1](https://github.com/foodiecravings/foodiecravings/projects/1)
+
+[Milestone 2](https://github.com/foodiecravings/foodiecravings/projects/2)
+
+[Milestone 3](https://github.com/foodiecravings/foodiecravings/projects/3)
 
 [Project Board](https://github.com/foodiecravings/foodiecravings/projects)
 
-[GitHub Organization](https://github.com/foodiecravings)
+[GitHub Repository](https://github.com/foodiecravings/foodiecravings)
 
-## Our Goals
-We hope to create a website that can help everyone feed their cravings. Our website will be able to collect
-information from campus restaurants. Some information that we plan to share with our users is the location, the 
-hours of operation, some visual aids, the price of the food, and the ability to add ratings for others to see.
+[GitHub Organization](https://github.com/foodiecravings)
 
 ## Overview
 Ever having a craving for food but you don't know where to get the best of the best? Well youre in luck! Foodie Cravings 
-hopes to create a website that can help the UH community feed their cravings.Our website is able to collect information 
+hopes to create a website that can help the UH community feed their cravings. Our website is able to collect information 
 from campus restaurants and even locations off campus. Some information that Foodie Cravings shares with our users is
-the location, visual aids, price, and ratings. You can check out our [repository](http://foodiecravings.meteorapp.com/#/) as well as our live [website](http://foodiecravings.meteorapp.com/#/)! You can check out our recent updates in our [Milestone2](https://github.com/foodiecravings/foodiecravings/projects/2) project board, and our plans for our final update, [Milestone3](https://github.com/foodiecravings/foodiecravings/projects/3)!
+the location, visual aids, price, and ratings. You can check out our [repository](https://github.com/foodiecravings/foodiecravings) as well as our live [website](http://foodiecravings.meteorapp.com/#/)! Here are links to our recent updates in our [Milestone2](https://github.com/foodiecravings/foodiecravings/projects/2) project board, and our plans for our final update, [Milestone3](https://github.com/foodiecravings/foodiecravings/projects/3)!
 
 ## User Guide
 Navigate over to our [website](http://foodiecravings.meteorapp.com/#/) and you will arrive at our landing page.
@@ -54,10 +54,14 @@ After entering your information you will now have full access to our website!
 You can add new ratings by navigating to the "Add Food" tab on top. Here we will ask you for your review of the food. 
 ![](images/add_food.png)
 There is also a page where you can search for food, this is under the "Search Results" tab. 
+
 Comming Soon!
 
 The last special feature is your profile page. Here is where other reviews can get to know a little bit more about you! 
 ![](images/profile_page.png)
+
+Your profile page will also allow you to view the reviews you made
+![](images/reviews.png)
 
 # Installation
 
@@ -77,7 +81,7 @@ Fourth, run the system with:
 $ meteor npm run start
 ```
 
-Finally, run this last line to import a package one of our features require:
+Finally, run this last line to import a package for one of our features requirements:
 
 ```
 $ npm install react-image-fallback
@@ -210,14 +214,7 @@ ESLint should run without generating any errors.
 
 It's significantly easier to do development with ESLint integrated directly into your IDE (such as IntelliJ).
 
-## Our Milestones
-[Milestone 1](https://github.com/foodiecravings/foodiecravings/projects/1)
-
-[Milestone 2](https://github.com/foodiecravings/foodiecravings/projects/2)
-
-[milestone 3](https://github.com/foodiecravings/foodiecravings/projects/3)
-
-## FoodieCravings Website
+# FoodieCravings Website
 
 [FoodieCravings App](http://foodiecravings.meteorapp.com/#/)
 
@@ -247,8 +244,6 @@ This milestone started on April 12, 2019 and ended on April 25, 2019.
 
 Our task for [milestone 2](https://github.com/foodiecravings/foodiecravings/projects/2)
 ![](images/milestone2.png)
-
-- The [search bar](http://foodiecravings.meteorapp.com/#/) now is able to search the available foods
 
 - Add a [profile page](http://foodiecravings.meteorapp.com/#/profile) so the user can share a little information about them
 ![](images/profile_page.png)
