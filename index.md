@@ -22,7 +22,7 @@
 
 
 ## Useful Links
-[FoodieCravings App](http://foodiecravings.meteorapp.com/#/)
+[FoodieCravings Website](http://foodiecravings.meteorapp.com/#/)
 
 [Milestone1](https://github.com/foodiecravings/foodiecravings/projects/1)
 
@@ -40,7 +40,7 @@
 Ever having a craving for food but you don't know where to get the best of the best? Well youre in luck! Foodie Cravings 
 hopes to create a website that can help the UH community feed their cravings. Our website is able to collect information 
 from campus restaurants and even locations off campus. Some information that Foodie Cravings shares with our users is
-the location, visual aids, price, and ratings. You can check out our [repository](https://github.com/foodiecravings/foodiecravings) as well as our live [website](http://foodiecravings.meteorapp.com/#/)! Here are links to our recent updates in our[Milestone1](https://github.com/foodiecravings/foodiecravings/projects/1), [Milestone2](https://github.com/foodiecravings/foodiecravings/projects/2), and [Milestone3](https://github.com/foodiecravings/foodiecravings/projects/3)
+the location, visual aids, price, and ratings. You can check out our [repository](https://github.com/foodiecravings/foodiecravings) as well as our live [website](http://foodiecravings.meteorapp.com/#/)! Here are links to our recent updates in our [Milestone1](https://github.com/foodiecravings/foodiecravings/projects/1), [Milestone2](https://github.com/foodiecravings/foodiecravings/projects/2), and [Milestone3](https://github.com/foodiecravings/foodiecravings/projects/3)
 project boards!
 
 ## User Guide
@@ -61,8 +61,12 @@ There is also a page where you can search for food, this is under the "Search Re
 The last special feature is your profile page. Here is where other reviews can get to know a little bit more about you! 
 ![](images/profile_page.png)
 
-Your profile page will also allow you to view the reviews you made
+Your profile page will also allow you to view the reviews you made and foods you favorited
 ![](images/reviews.png)
+![](images/favorites.png)
+
+If you have admin access, you will have access to a page that allows you to see any reports that were made to the site
+![](images/reports.png)
 
 # Community Feedback
 Here are some reviews that we collected from the community:
@@ -244,10 +248,13 @@ This milestone started on April 4, 2019 and ended on April 11, 2019.
 
 - Create a fully functional [landing page](http://foodiecravings.meteorapp.com/#/) with working navbar and footer and allows users to know what our website is about
 ![](images/landing.png)
-- Create a [contact us](http://foodiecravings.meteorapp.com/#/contact) page where users can provide feedback where admins may use to fix the website
+- Create a [contact us](http://foodiecravings.meteorapp.com/#/contact) page where users can provide feedback where admins may use to fix the website. Admins will also have the ability to look at the reports that are submitted through the Contact Us page.
 ![](images/contact_us.png)
+![](images/reports.png)
+
 - Add functionality to search bar on [landing page](http://foodiecravings.meteorapp.com/#/)
 ![](images/functional_search_bar.png)
+
 - Add [log in](http://foodiecravings.meteorapp.com/#/signin) page to allow user to log in and add in their food
 ![](images/login_page.png)
 
