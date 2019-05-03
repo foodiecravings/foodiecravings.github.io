@@ -78,13 +78,15 @@ good." - Jianna O.
 
 "Good idea, but doesn’t yelp exist? UI otherwise is nice and easy to use." - Emily K.
 
+"I say your homepage it nice, especially the food photos. I like how you design the profile, and how easy it is to edit. Nice that you guys made a twitter and instagram profile for your project." - Kylie L.
+
 "Design is good but there is a slight delay on the submit button." - Anonymous
 
-"The website works in a way, but does not work entirely but overall design and concept looks great."  - Anonymous
 
 Our take away from the community feedback is that we have a great design and concept. The UI is very user friendly and it
 is easy to use. While there are many things that are functional, there are other things that are not. There are places
-when the functionally is not as smooth as we had intended.
+when the functionally is not as smooth as we had intended. Overall, our attention to detail did paid off as one person was able
+to notice that we created actual social media accounts.
 
 # Installation
 
