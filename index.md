@@ -16,9 +16,9 @@
     * [ESLint](#eslint)
 * [FoodieCravings Website](#foodiecravings-website)
  * [Milestone development](#milestone-development)
-  * [Milestone 1: Mockup development](#milestone-1:-mockup-development)
-  * [Milestone 2: Improve Functionality](#milestone-2:-improve-functionality)
-  * [Milestone 3: Clean Up](#milestone-3:-clean-up)
+  * [Milestone 1: Mockup development](#milestone-1-mockup-development)
+  * [Milestone 2: Improve Functionality](#milestone-2-improve-functionality)
+  * [Milestone 3: Clean Up](#milestone-3-clean-up)
 
 
 ## Useful Links
@@ -40,7 +40,8 @@
 Ever having a craving for food but you don't know where to get the best of the best? Well youre in luck! Foodie Cravings 
 hopes to create a website that can help the UH community feed their cravings. Our website is able to collect information 
 from campus restaurants and even locations off campus. Some information that Foodie Cravings shares with our users is
-the location, visual aids, price, and ratings. You can check out our [repository](https://github.com/foodiecravings/foodiecravings) as well as our live [website](http://foodiecravings.meteorapp.com/#/)! Here are links to our recent updates in our [Milestone2](https://github.com/foodiecravings/foodiecravings/projects/2) project board, and our plans for our final update, [Milestone3](https://github.com/foodiecravings/foodiecravings/projects/3)!
+the location, visual aids, price, and ratings. You can check out our [repository](https://github.com/foodiecravings/foodiecravings) as well as our live [website](http://foodiecravings.meteorapp.com/#/)! Here are links to our recent updates in our[Milestone1](https://github.com/foodiecravings/foodiecravings/projects/1), [Milestone2](https://github.com/foodiecravings/foodiecravings/projects/2), and [Milestone3](https://github.com/foodiecravings/foodiecravings/projects/3)
+project boards!
 
 ## User Guide
 Navigate over to our [website](http://foodiecravings.meteorapp.com/#/) and you will arrive at our landing page.
@@ -54,8 +55,8 @@ After entering your information you will now have full access to our website!
 You can add new ratings by navigating to the "Add Food" tab on top. Here we will ask you for your review of the food. 
 ![](images/add_food.png)
 There is also a page where you can search for food, this is under the "Search Results" tab. 
-
-Comming Soon!
+![](images/searchbar.png)
+![](images/searchbar_results.png)
 
 The last special feature is your profile page. Here is where other reviews can get to know a little bit more about you! 
 ![](images/profile_page.png)
