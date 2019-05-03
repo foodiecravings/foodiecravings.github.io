@@ -82,9 +82,9 @@ good." - Jianna O.
 
 "The website works in a way, but does not work entirely but overall design and concept looks great."  - Anonymous
 
-Our take away from the community feedback is that we have a great design and concept. The UI is very user friendly.
-There are many things that are functional but, there are other things that are not. Theses are issues that we will have
-to address in the future. 
+Our take away from the community feedback is that we have a great design and concept. The UI is very user friendly and it
+is easy to use. While there are many things that are functional, there are other things that are not. There are places
+when the functionally is not as smooth as we had intended.
 
 # Installation
 
