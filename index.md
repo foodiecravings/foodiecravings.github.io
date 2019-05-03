@@ -244,7 +244,7 @@ It's significantly easier to do development with ESLint integrated directly into
 ## Milestone 1: Mockup Development
 This milestone started on April 4, 2019 and ended on April 11, 2019.
 
-## The goal of milestone 1:
+Our task for [milestone 1](https://github.com/foodiecravings/foodiecravings/projects/1)
 
 - Create a fully functional [landing page](http://foodiecravings.meteorapp.com/#/) with working navbar and footer and allows users to know what our website is about
 ![](images/landing.png)
@@ -262,13 +262,10 @@ Milestone 1 consisted of 10 issues
 
 Each issue was implemented in its own branch, and merged into master when completed
 
-![](images/m1.PNG)
-
 ## Milestone 2: Improve Functionality
 This milestone started on April 12, 2019 and ended on April 25, 2019.
 
 Our task for [milestone 2](https://github.com/foodiecravings/foodiecravings/projects/2)
-![](images/milestone2.png)
 
 - Add a [profile page](http://foodiecravings.meteorapp.com/#/profile) so the user can share a little information about them
 ![](images/profile_page.png)
