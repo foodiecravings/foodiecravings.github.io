@@ -3,6 +3,7 @@
 * [Useful Links](#useful-links)
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
@@ -13,15 +14,14 @@
   * [Configuration](#configuration)
   * [Quality Assurance](#quality-assurance)
     * [ESLint](#eslint)
-* [Our Milestones](#our-milestones)
 * [FoodieCravings Website](#foodiecravings-website)
  * [Milestone development](#milestone-development)
-  * [Milestone 1: Mockup development](#milestone-1-mockup-development)
-  * [Milestone 2: Improve Functionality](#milestone-2)
-  * [Milestone 3: Clean Up](https://github.com/foodiecravings/foodiecravings/projects/3)
+  * [Milestone 1: Mockup development](#milestone-1:-mockup-development)
+  * [Milestone 2: Improve Functionality](#milestone-2:-improve-functionality)
+  * [Milestone 3: Clean Up](#milestone-3:-clean-up)
 
 
-## useful links
+## Useful Links
 [FoodieCravings App](http://foodiecravings.meteorapp.com/#/)
 
 [Milestone1](https://github.com/foodiecravings/foodiecravings/projects/1)
@@ -62,6 +62,24 @@ The last special feature is your profile page. Here is where other reviews can g
 
 Your profile page will also allow you to view the reviews you made
 ![](images/reviews.png)
+
+# Community Feedback
+Here are some reviews that we collected from the community:
+
+"Very good application, a little glitchy in some areas but overall the design and the implementation of the widgets are 
+good." - Jianna O.
+
+"Love the designs of the user interface. Very colorful and eye-catching. Very easy to use the website." - Kyle D.
+
+"Good idea, but doesn’t yelp exist? UI otherwise is nice and easy to use." - Emily K.
+
+"Design is good but there is a slight delay on the submit button." - Anonymous
+
+"The website works in a way, but does not work entirely but overall design and concept looks great."  - Anonymous
+
+Our take away from the community feedback is that we have a great design and concept. The UI is very user friendly.
+There are many things that are functional but, there are other things that are not. Theses are issues that we will have
+to address in the future. 
 
 # Installation
 
@@ -178,21 +196,20 @@ This system adopts the following naming conventions:
   * Files and directories are named in all lowercase, with words separated by hyphens. Example: accounts-config.js
   * "Global" Javascript variables (such as collections) are capitalized. Example: Profiles.
   * Other Javascript variables are camel-case. Example: collectionList.
-  * Templates representing pages are capitalized, with words separated by underscores. Example: Directory_Page. The files for this template are lower case, with hyphens rather than underscore. Example: directory-page.html, directory-page.js.
   * Routes to pages are named the same as their corresponding page. Example: Directory_Page.
 
 
 ## Data model
 
-The FoodieCravings data model is implemented by two Javascript classes: [FoodCollection](https://github.com/foodiecravings/foodiecravings/blob/master/app/imports/api/food/food.js) and [ReportCollection](https://github.com/foodiecravings/foodiecravings/blob/master/app/imports/api/report/report.js).
+The FoodieCravings data model is implemented by four Javascript classes: [FoodCollection](https://github.com/foodiecravings/foodiecravings/blob/master/app/imports/api/food/food.js), [ReportCollection](https://github.com/foodiecravings/foodiecravings/blob/master/app/imports/api/report/report.js), [NoteCollection](https://github.com/foodiecravings/foodiecravings/blob/master/app/imports/api/note/note.js), and [ProfileCollection](https://github.com/foodiecravings/foodiecravings/blob/master/app/imports/api/profile/profile.js)
 * Food collection is the data of food where users are able to view in the system.
-* Report collection added where users may provide feedback to the admins.
+* Report collection is added where users may provide feedback to the admins.
+* Note collection is to track users comments on food reviews.
+* Profile collection is used to track the data for users profiles.
 
 ## CSS
 
 The application uses the [Semantic UI](http://semantic-ui.com/) CSS framework. To learn more about the Semantic UI theme integration with Meteor, see [Semantic-UI-Meteor](https://github.com/Semantic-Org/Semantic-UI-Meteor).
-
-The Semantic UI theme files are located in [app/client/lib/semantic-ui](https://github.com/ics-software-engineering/meteor-application-template/tree/master/app/client/lib/semantic-ui) directory. Because they are located in the client/ directory and not the imports/ directory, they do not need to be explicitly imported to be loaded. (Meteor automatically loads all files into the client that are located in the client/ directory). 
 
 ## Configuration
 
@@ -219,7 +236,7 @@ It's significantly easier to do development with ESLint integrated directly into
 [FoodieCravings App](http://foodiecravings.meteorapp.com/#/)
 
 # Milestone Development
-## Milestone 1: Mockup development
+## Milestone 1: Mockup Development
 This milestone started on April 4, 2019 and ended on April 11, 2019.
 
 ## The goal of milestone 1:
@@ -256,4 +273,22 @@ Milestone 2 consisted of 8 issues
 Each issue was implemented in its own branch, and merged into master when completed
 
 ## Milestone 3: Clean Up
+This milestone started on April 26, 2019 and ended on May 2, 2019.
+
 Our Task for [milestone 3](https://github.com/foodiecravings/foodiecravings/projects/3)
+
+- Complete our [search bar](http://foodiecravings.meteorapp.com/#/) functionality
+![](images/searchbar.png)
+
+- The Search bar will take you to a page to list its results
+![](images/searchbar_results.png)
+
+- Implement a favorite system on the [profile page](http://foodiecravings.meteorapp.com/#/profile) 
+![](images/favorites.png)
+
+- Fix and improve functionality of the overall system. Some of these fixes included the profile page, list results page,
+and removing any unused files
+
+Milestone 3 consisted of 11 issues
+
+Each issue was implemented in its own branch, and merged into master when completed
