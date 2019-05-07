@@ -284,7 +284,7 @@ This milestone started on April 26, 2019 and ended on May 2, 2019.
 
 Our Task for [milestone 3](https://github.com/foodiecravings/foodiecravings/projects/3)
 
-- Complete our [search bar](http://foodiecravings.meteorapp.com/#/) functionality
+- Complete our [search bar](http://foodiecravings.meteorapp.com/#/) functionality (user must be logged in)
 ![](images/searchbar.png)
 
 - The Search bar will take you to a page to list its results
@@ -296,6 +296,4 @@ Our Task for [milestone 3](https://github.com/foodiecravings/foodiecravings/proj
 - Fix and improve functionality of the overall system. Some of these fixes included the profile page, list results page,
 and removing any unused files
 
-Milestone 3 consisted of 11 issues
-
-Each issue was implemented in its own branch, and merged into master when completed
+Milestone 3 consisted of 11 issues, each issue was implemented in its own branch, and merged into master when completed.
