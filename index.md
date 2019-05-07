@@ -39,8 +39,8 @@
 ## Overview
 Ever having a craving for food but you don't know where to get the best of the best? Well youre in luck! Foodie Cravings 
 hopes to create a website that can help the UH community feed their cravings. Our website is able to collect information 
-from campus restaurants and even locations off campus. Some information that Foodie Cravings shares with our users is
-the location, visual aids, price, and ratings. You can check out our [repository](https://github.com/foodiecravings/foodiecravings) as well as our live [website](http://foodiecravings.meteorapp.com/#/)! Here are links to our recent updates in our [Milestone1](https://github.com/foodiecravings/foodiecravings/projects/1), [Milestone2](https://github.com/foodiecravings/foodiecravings/projects/2), and [Milestone3](https://github.com/foodiecravings/foodiecravings/projects/3)
+from campus restaurants and locations off campus. Some information that Foodie Cravings shares with our users is
+the location, price, rating and  visual aids. You can check out our [repository](https://github.com/foodiecravings/foodiecravings) as well as our live [website](http://foodiecravings.meteorapp.com/#/)! Here are links to our recent updates in our [Milestone1](https://github.com/foodiecravings/foodiecravings/projects/1), [Milestone2](https://github.com/foodiecravings/foodiecravings/projects/2), and [Milestone3](https://github.com/foodiecravings/foodiecravings/projects/3)
 project boards!
 
 ## User Guide
@@ -58,7 +58,7 @@ There is also a page where you can search for food, this is under the "Search Re
 ![](images/searchbar.png)
 ![](images/searchbar_results.png)
 
-The last special feature is your profile page. Here is where other reviews can get to know a little bit more about you! 
+The last special feature is your profile page. Here is where other reviwers can get to know a little bit more about you! 
 ![](images/profile_page.png)
 
 Your profile page will also allow you to view the reviews you made and foods you favorited
@@ -100,16 +100,16 @@ Third, cd into the app/ directory and install libraries with:
 $ meteor npm install
 ```
 
-Fourth, run the system with:
-
-```
-$ meteor npm run start
-```
-
-Finally, run this last line to import a package for one of our features requirements:
+Fourth, run this last line to import a package: (this is needed for one of our features to work)
 
 ```
 $ npm install react-image-fallback
+```
+
+Finally, run the system with:
+
+```
+$ meteor npm run start
 ```
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). 
@@ -210,7 +210,7 @@ This system adopts the following naming conventions:
 
 The FoodieCravings data model is implemented by four Javascript classes: [FoodCollection](https://github.com/foodiecravings/foodiecravings/blob/master/app/imports/api/food/food.js), [ReportCollection](https://github.com/foodiecravings/foodiecravings/blob/master/app/imports/api/report/report.js), [NoteCollection](https://github.com/foodiecravings/foodiecravings/blob/master/app/imports/api/note/note.js), and [ProfileCollection](https://github.com/foodiecravings/foodiecravings/blob/master/app/imports/api/profile/profile.js)
 * Food collection is the data of food where users are able to view in the system.
-* Report collection is added where users may provide feedback to the admins.
+* Report collection is used to store user feedback.
 * Note collection is to track users comments on food reviews.
 * Profile collection is used to track the data for users profiles.
 
@@ -248,16 +248,16 @@ This milestone started on April 4, 2019 and ended on April 11, 2019.
 
 Our task for [milestone 1](https://github.com/foodiecravings/foodiecravings/projects/1)
 
-- Create a fully functional [landing page](http://foodiecravings.meteorapp.com/#/) with working navbar and footer and allows users to know what our website is about
+- Create a fully functional [landing page](http://foodiecravings.meteorapp.com/#/) with a working navbar and footer that allows users to know what our website is about
 ![](images/landing.png)
-- Create a [contact us](http://foodiecravings.meteorapp.com/#/contact) page where users can provide feedback where admins may use to fix the website. Admins will also have the ability to look at the reports that are submitted through the Contact Us page.
+- Create a [contact us](http://foodiecravings.meteorapp.com/#/contact) page where users can provide feedback. Also create a page where admins may view the feedback.
 ![](images/contact_us.png)
 ![](images/reports.png)
 
-- Add functionality to search bar on [landing page](http://foodiecravings.meteorapp.com/#/)
+- Add functionality to the search bar on the [landing page](http://foodiecravings.meteorapp.com/#/)
 ![](images/functional_search_bar.png)
 
-- Add [log in](http://foodiecravings.meteorapp.com/#/signin) page to allow user to log in and add in their food
+- Add a [log in](http://foodiecravings.meteorapp.com/#/signin) page to allow user to log in
 ![](images/login_page.png)
 
 Milestone 1 consisted of 10 issues
@@ -272,7 +272,7 @@ Our task for [milestone 2](https://github.com/foodiecravings/foodiecravings/proj
 - Add a [profile page](http://foodiecravings.meteorapp.com/#/profile) so the user can share a little information about them
 ![](images/profile_page.png)
 
-- A list of your food reviews is also available on your profile page. There are also options to add on comments, delete or edit your reviews
+- A list of your food reviews is also available on your profile page. There are also options to add on comments and delete or edit your reviews
 ![](images/reviews.png)
 
 Milestone 2 consisted of 8 issues
